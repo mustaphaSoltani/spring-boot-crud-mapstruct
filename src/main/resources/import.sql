@@ -1,0 +1,1 @@
+INSERT INTO "employee" (ID, NAME, FIRSTNAME, AGE, SEXE) VALUES(1, 'test','TEST1', 17, 'F');

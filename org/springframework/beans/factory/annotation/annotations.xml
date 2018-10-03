@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.beans.factory.annotation.Required'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
